@@ -1,4 +1,5 @@
-h1. Swag Badge Battery Pack.
+Swag Badge Battery Pack.
+========================
 
 At LCA 2021, many attendees were given a [Swag
 Badge](http://www.openhardwareconf.org/wiki/Swagbadge2021).  
@@ -13,11 +14,13 @@ But if it is to be used as a _badge_ it needs portable power.
 I'm trying to design a battery holder for an 1100mAH LiPo (usualy used
 for small RC helicopters).
 
-h2. Spectrum Chat
+Spectrum Chat
+-------------
 
 https://spectrum.chat/lca2021-swagbadge/general?tab=posts
 
-h1. Licence
+Licence
+=======
 
 Code licensed under Creative Commons Attribution Share-Alike,
 non-Commercial, version 4.0 International.
