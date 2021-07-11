@@ -39,3 +39,6 @@ Versions and Printing Notes
 The initial version does not work.  The pins are too fat for the 2.5mm⌀ holes; 
 and the clearance is insufficient for the shell to slide onto the plate.
 Do not build this version!
+
+Current head of tree works, but you need to use M2.5 nuts and bolts to attach
+the battery pack to the SwagBadge.
