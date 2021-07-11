@@ -1,8 +1,9 @@
 /*
-* This version doesn't work.
-* --- Pins are too large for holes, and do not fit
-* --- Plate obscures charge lamp --- can it be made smaller?
-*/
+ * --- Pins are too large for holes, and do not fit
+ * --- Plate obscures charge lamp --- can it be made smaller?
+ *
+ * Approx 2 hour print time with Cura's 'super quality' profile for Ender 3 v2.
+ */
 /*
  * Licence:
  * Copyright 2021 Peter Chubb
