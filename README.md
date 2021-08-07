@@ -13,8 +13,10 @@ But if it is to be used as a _badge_ it needs portable power.
 
 I'm trying to design a battery holder for an 1100mAH LiPo (usually used
 for small RC helicopters). These usually come with a Molex 15001 connector;
-the Swag Badge has a JST RCY connector. Either cut it off and replace, it,
-or use an adapter.
+the Swag Badge has a JST PH2 connector. Either cut it off and replace it,
+or use an adapter.  The PH2 adapter needs to be polarised opposite
+to most ones I've seen: looking from the back of the swagbadge,
+positive is on the _left_.
 
 [This battery](https://www.ebay.com.au/itm/174761665304?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
 is 45mm long. 26mm wide, and 9mm thick, and should be compatible.
@@ -33,6 +35,10 @@ non-Commercial, version 4.0 International.
 You may freely copy, adapt, and share this code for non-commercial
 purposes, providing you acknowledge the author(s) of it, and relicense
 under the same terms.
+
+
+The pin design is from https://www.thingiverse.com/thing:130879/files
+licensed under CC-By-SA whpthomas.
 
 Versions and Printing Notes
 ===========================
